@@ -1,0 +1,137 @@
+/* style for category list*/
+
+.number{
+	color: white;
+	padding: 2px;
+	border-radius:6px;
+	-o-border-radius:6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	background-color: #8c8b8c;
+	font-size: 0.8em;
+	line-height: 0.8em;
+	margin-left: 3px;
+	margin-right: 3px;
+	
+
+}
+
+/* @group Category */
+
+.category{
+	line-height: 1.6em;
+	display: block;
+	border-radius:6px;
+	-o-border-radius:6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	width: 100%;
+	border: 0px solid #95b4c7;
+	/*padding-top: 10px;
+	padding-bottom: 10px;
+	margin-right: 18px;
+	float: left;*/
+	
+}
+
+
+
+.category li{
+	/*float: left;*/
+}
+
+.category .category_last{
+	/*border-right: 1px solid #e4e4e4;*/
+}
+
+.category a.cat{
+	display: block;
+	padding: 3px;
+	padding-left: 10px;
+	padding-right: 10px;
+	min-width: 80px;
+	border-radius:4px;
+	-o-border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	margin:8px;
+	font-size: 1em;
+	border:1px solid transparent
+}
+
+.category .cat_tips{
+	display: inline;
+	margin-left: 5px;
+	font-size: 0.8em;
+	line-height: 0.8em;
+	color: #b0afb0;
+}
+
+
+.category a.cat:hover{
+	/*color: white;*/
+	text-decoration: none;
+	background-color: #f4f8fb;
+	border: 1px solid #cbced1;
+}
+
+
+.search{
+	/*float:right;*/
+	border-radius:6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	background: #fff8d5;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 35px;
+	padding: 15px 20px;
+	display: block;
+	-webkit-box-shadow: 0px 6px 6px #e0e0e0;
+	border: 1px solid #e78433;
+}
+
+.aqua{
+  background-color: rgba(60, 132, 198, 0.8);
+  border-top-color: #8ba2c1;
+  border-right-color: #5890bf;
+  border-bottom-color: #4f93ca;
+  border-left-color: #768fa5;
+  -webkit-box-shadow: rgba(66, 140, 240, 0.5) 0px 10px 16px;
+  -moz-box-shadow: rgba(66, 140, 240, 0.5) 0px 10px 16px;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 90%, from(rgba(28, 91, 155, 0.8)), to(rgba(108, 191, 255, .9)));
+/* for FF 3.6 */
+  background-image: -moz-linear-gradient(rgba(28, 91, 155, 0.8) 0%, rgba(108, 191, 255, .9) 90%);
+}
+
+#search_title{
+	color: #CF1F00;
+	font-size: 1.2em;
+	margin-bottom: 5px;
+}
+#fsearch_new{
+	border: 1px solid #E16601;
+	height: 20px;
+	margin: 0px;
+	padding: 2px;
+	width: 400px;
+}
+
+#tm_list_table{
+	text-align: center;
+	font-size: 0.8em;
+} 
+
+img.tm{
+	cursor: pointer;
+	font-size: 0.8em;
+	display: block;
+	width: 200px;
+	
+	padding: 5px;
+	margin: 5px;
+	
+	border: 1px solid #e1e1e1;;
+}
+

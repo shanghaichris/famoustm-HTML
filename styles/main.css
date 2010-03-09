@@ -1,0 +1,159 @@
+body{
+	margin-top: 0px;
+	background: #cee3f1 url(../images/bg.png) repeat-x;
+	font-size: 1em;
+	color: gray;
+	font-family: sans-serif;
+	line-height: 1.2em;
+}
+
+li{
+	list-style-type: none;
+}
+
+a{
+	color: #1a74b0;
+	text-decoration: none;
+}
+a:hover{
+	color: #71b9eb;
+	text-decoration: underline;
+}
+a img{
+	border: 0px;
+}
+
+#page_header{
+	min-height: 50px;
+}
+
+#site_navigator li{
+	float: left;
+	
+	font-size: 1.2em;
+	margin-left: 4px;
+}
+#site_navigator a{
+	display: block;
+	width: 80px;
+	margin-left: 15px;
+	padding: 5px;
+	text-align: center;
+	border-radius:6px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-o-border-radius: 6px;
+	
+}
+
+#site_navigator a:hover{
+	text-decoration: none;
+	color: white;
+	background-color: rgba(32,148,226,0.74);
+}
+
+#service_call{
+	font-size: 1.2em;
+	color: white;
+	/*text-shadow: #e4e4e4 0px 1px 1px ;*/
+	display: block;
+	padding: 5px;
+	text-align: center;
+	border-radius:8px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-o-border-radius: 8px;
+	background-color: #229ef2;
+	
+}
+
+
+#page_outline{
+	margin-top: 25px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+	padding: 0px;
+	line-height: 1em;
+}
+
+#site_navigator{
+	float: right;
+	display: block;
+}
+
+#site_logo{
+	float: left;
+	background: url(../images/logo.png) no-repeat;
+	height: 42px;
+	width: 192px;
+}
+#site_logo a{
+	height: 42px;
+	width: 192px;
+	display: block;
+}
+
+/* page foot styles */
+
+.page_foot{
+	font-size: 0.75em;
+	color: gray;
+	text-align: center;
+	margin-top: 10px;
+	clear: both;
+}
+
+
+.basic_page_header{
+	border-top-left-radius:6px;
+	border-top-right-radius:6px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	-webkit-border-top-left-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+		
+	padding: 15px;
+	
+	background: white url(../images/page_bg.png) repeat-x;
+	color: white;
+}
+
+.basic_page_header span{
+	font-size: 1.2em;
+}
+
+.basic_page_content{
+	border-bottom-left-radius:6px;
+	border-bottom-right-radius: 6px;
+	-moz-border-radius-bottomleft: 6px;
+	-moz-border-radius-bottomright: 6px;
+	-webkit-border-bottom-left-radius: 6px;
+	-webkit-border-bottom-right-radius: 6px;
+	
+	background-color: white;
+	padding: 15px;
+	border: 1px solid #229ef2;
+	clear: both;
+	position: relative;
+	min-height: 600px;
+}
+
+.btn_large{
+	background: #E26000 url(http://support.mozilla.com/styles/mozms2/btn_bg.jpg) repeat-x;
+	border-bottom-left-radius: 3px 3px;
+	border-bottom-right-radius: 3px 3px;
+	border: 0px;
+	border-top-left-radius: 3px 3px;
+	border-top-right-radius: 3px 3px;
+	cursor: pointer;
+	text-shadow: #B85F06 -1px 1px 1px;
+	text-transform: uppercase;
+	
+	font: normal normal bold 12px/normal Verdana, sans-serif;
+	padding: 5px;
+	color: white;
+}
+
+
+

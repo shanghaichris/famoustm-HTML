@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESProjectWindowState</key>
+	<dict>
+		<key>ContentSize</key>
+		<string>{1305, 994}</string>
+		<key>ProjectURL</key>
+		<string>file://localhost/Users/chris/Sites/FamousTM.Project/famoustm_html/famoustm%20html%20version.esproj/</string>
+		<key>StateType</key>
+		<string>ProjectWindow</string>
+		<key>TopLeftPoint</key>
+		<string>{327, 1172}</string>
+	</dict>
+	<key>com.macrabbit.Espresso.FileManager.DisclosureCollapsed</key>
+	<false/>
+	<key>com.macrabbit.Espresso.FileManager.FileControllerState</key>
+	<dict>
+		<key>ExpandedURLs</key>
+		<array>
+			<string>file://localhost/Users/chris/Sites/FamousTM.Project/famoustm_html/images</string>
+			<string>file://localhost/Users/chris/Sites/FamousTM.Project/famoustm_html/javascripts</string>
+			<string>file://localhost/Users/chris/Sites/FamousTM.Project/famoustm_html/styles/flick</string>
+		</array>
+	</dict>
+	<key>com.macrabbit.Espresso.Publisher.DisclosureCollapsed</key>
+	<false/>
+	<key>com.macrabbit.Espresso.Workspace.Tabs</key>
+	<dict>
+		<key>Tabs</key>
+		<array>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/chris/Sites/FamousTM.Project/famoustm_html/browse.html</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>StateType</key>
+				<string>PreviewTab</string>
+				<key>Title</key>
+				<string>浏览 - 驰名商标网</string>
+				<key>URL</key>
+				<string>file:///Users/chris/Sites/FamousTM.Project/famoustm_html/browse.html</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/chris/Sites/FamousTM.Project/famoustm_html/styles/category.css</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/chris/Sites/FamousTM.Project/famoustm_html/styles/main.css</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/chris/Sites/FamousTM.Project/famoustm_html/styles/overlay-apple.css</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.macrabbit.Espresso.WorkspaceTabs.DisclosureCollapsed</key>
+	<false/>
+</dict>
+</plist>
