@@ -154,6 +154,7 @@ a#trust_us{
 	border-top: 1px dotted #e4e4e4;
 	height: 60px;
 	clear: both;
+	margin-top: 5px;
 }
 #clients_list li{
 	float: left;
