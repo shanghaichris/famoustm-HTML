@@ -32,7 +32,7 @@
 		<array>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/chris/Sites/FamousTM.Project/famoustm_html/browse.html</string>
+				<string>file://localhost/Users/chris/Sites/famoustm.project/famoustm_html/browse.html</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
@@ -40,25 +40,31 @@
 				<key>StateType</key>
 				<string>PreviewTab</string>
 				<key>Title</key>
-				<string>浏览 - 驰名商标网</string>
+				<string>政策法规 - 驰名商标网</string>
 				<key>URL</key>
-				<string>file:///Users/chris/Sites/FamousTM.Project/famoustm_html/browse.html</string>
+				<string>file:///Users/chris/Sites/FamousTM.Project/famoustm_html/policy.html</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/chris/Sites/FamousTM.Project/famoustm_html/styles/category.css</string>
+				<string>file://localhost/Users/chris/Sites/famoustm.project/famoustm_html/styles/category.css</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/chris/Sites/FamousTM.Project/famoustm_html/styles/main.css</string>
+				<string>file://localhost/Users/chris/Sites/famoustm.project/famoustm_html/styles/main.css</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/chris/Sites/FamousTM.Project/famoustm_html/styles/overlay-apple.css</string>
+				<string>file://localhost/Users/chris/Sites/famoustm.project/famoustm_html/styles/overlay-apple.css</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/chris/Sites/famoustm.project/famoustm_html/policy.html</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
