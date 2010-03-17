@@ -59,6 +59,36 @@
 	border:1px solid transparent
 }
 
+.category2{
+	float: left;
+	display: block;
+	line-height: 1.6em;
+}
+
+.category2 a.cat2{
+	display: block;
+	border-top: 1px solid #e5e5e5;
+	width: 150px;
+	text-decoration: none;
+	padding-left: 10px;
+}
+.category2 a.cat2_last{
+	display: block;
+	border-top: 1px solid #e5e5e5;
+	width: 150px;
+	text-decoration: none;
+	border-bottom: 1px solid #e5e5e5;
+	padding-left: 10px;
+}
+
+.category2 a.cat2:hover,.category2 a.cat2_last:hover{
+	
+	background-color: #edf3fe;
+}
+
+
+
+
 .category .cat_tips{
 	display: inline;
 	margin-left: 5px;
@@ -73,6 +103,15 @@
 	text-decoration: none;
 	background-color: #f4f8fb;
 	border: 1px solid #cbced1;
+}
+
+.detail{
+	margin-left: 250px;
+	width: 650px;
+	
+	margin-top: 15px;
+	/*position: absolute;*/
+	display: block;
 }
 
 

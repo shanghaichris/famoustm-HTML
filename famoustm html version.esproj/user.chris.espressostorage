@@ -31,12 +31,6 @@
 		<key>Tabs</key>
 		<array>
 			<dict>
-				<key>DocumentURL</key>
-				<string>file://localhost/Users/chris/Sites/famoustm.project/famoustm_html/browse.html</string>
-				<key>StateType</key>
-				<string>DefaultTab</string>
-			</dict>
-			<dict>
 				<key>StateType</key>
 				<string>PreviewTab</string>
 				<key>Title</key>
@@ -53,12 +47,6 @@
 			<dict>
 				<key>DocumentURL</key>
 				<string>file://localhost/Users/chris/Sites/famoustm.project/famoustm_html/styles/main.css</string>
-				<key>StateType</key>
-				<string>DefaultTab</string>
-			</dict>
-			<dict>
-				<key>DocumentURL</key>
-				<string>file://localhost/Users/chris/Sites/famoustm.project/famoustm_html/styles/overlay-apple.css</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
